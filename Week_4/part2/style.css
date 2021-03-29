@@ -1,0 +1,13 @@
+table{border: solid 10px black;
+      height: 400px; 
+      width: 700px;}
+
+td{border: solid 10px red;}
+
+div{background-image: url(Picture\ 1.jpg);
+    background-repeat: repeat-x;
+    background-position: bottom;
+    height: 300px; 
+    width: 900px; 
+    border: solid 10px yellowgreen; 
+    margin: auto;}
